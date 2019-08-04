@@ -30,9 +30,9 @@ I applied different classification models to a test dataset collected from [comm
 
 
 
-* Automatic Machine Learning entails:
-  •	Automatic Hyperparameter Tuning 
-  •	Automatic Model selection  
+  * Automatic Machine Learning entails:  
+- Automatic Hyperparameter Tuning  
+- Automatic Model selection  
 
 
 
