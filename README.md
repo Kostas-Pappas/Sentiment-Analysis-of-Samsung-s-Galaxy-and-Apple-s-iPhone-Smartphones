@@ -6,9 +6,9 @@ I applied different classification models to a test dataset collected from [comm
 Apart from the goal of conducting sentiment analysis. I used this project as an opportunity to discover __automatic feature engineering tools__ available in Python and R and to:
 1.	Compare R __MLR__ and Python __ScikitLearn__ workflows.
 2.	Compare different open source free __Automatic Machine Learning Frameworks__( _Automatic Hyperparameter Tuning and Automatic Model selection_ )
-  -	[Auto Sklean](https://github.com/automl/auto-sklearn) optimizes pipelines using bayesian search
+  -	[Google’s AutoML](https://cloud.google.com/automl/)
   -	[TPOT](https://github.com/EpistasisLab/tpot) optimizes pipelines using genetic programming
-  -	[AutoML H20](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) 
+  -	[H20's AutoML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) 
 
 
 
